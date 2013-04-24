@@ -1,6 +1,5 @@
 *.py[co]
-
-#emacs
 *~
 bin/
 \#*#%
+gigaword/stanford-postagger-2013-04-04

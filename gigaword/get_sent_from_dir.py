@@ -7,8 +7,8 @@ OUTLINE:To get only raw texts from Gigaword(http://www.ldc.upenn.edu/Catalog/cat
 INPUT:Path to directory which contains Gigaword data.You can appoint parent directory. The "os.walk" module automatically get path to all sub-directory.  
 OUTPUT: *.raw files are produced in the same directory as original Gigaword file. 
 '''
-'__author__'='Kensuke Mitsuzawa'
-'__version__'='2013/4/21'
+__author__='Kensuke Mitsuzawa'
+__version__='2013/4/21'
 
 def get_dir_name(dir_name):
     files_list=[]
