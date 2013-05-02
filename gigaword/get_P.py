@@ -3,8 +3,8 @@
 '''
 This is just one module of get_sent_from_dir.py.
 '''
-'__author__'='Kensuke Mitsuzawa'
-'__version__'='2013/4/21'
+__author__='Kensuke Mitsuzawa'
+__version__='2013/4/21'
 
 import sys,re
 

@@ -1,6 +1,10 @@
 *.py[co]
-
-#emacs
 *~
 bin/
-\#*#%
+\#*\#%
+*.pickle
+*DS_Store
+stanford-core-nlp/test/
+stanford-core-nlp/testdir/
+stanford-core-nlp/S_tree_str/
+gigaword/stanford-postagger-2013-04-04
